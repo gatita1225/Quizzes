@@ -6,27 +6,22 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What is the main idea of this book?</text>
     </questiontext>
     <!--Answer 1 -->
-    <answer fraction="100">
-        <text>Washington D.C.</text>
-        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    <answer fraction="0">
+        <text>Dancing is a hobby that everyone enjoys.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 2 -->
-    <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    <answer fraction="100">
+        <text>Hobbies help people relax and have fun.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
-    </answer>
-    <!--Answer 4 -->
-    <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>People can only have one hobby.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -38,27 +33,22 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What hobby belongs in a goup of activities that use musical instruments?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>Singing</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Collecting</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
-    </answer>
-    <!--Answer 4 -->
-    <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Gardening</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -70,27 +60,22 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>How are gardening and painting alike?</text>
     </questiontext>
     <!--Answer 1 -->
-    <answer fraction="100">
-        <text>Washington D.C.</text>
-        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    <answer fraction="0">
+        <text>Both hobbies are done in the dirt.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Both hobbies need paint brushes.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
-    <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
-    </answer>
-    <!--Answer 4 -->
-    <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    <answer fraction="100">
+        <text>Both hobbies can be done outside.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -102,27 +87,22 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What is a fact about gardening?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>People grow plants.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>People tell stories.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
-    </answer>
-    <!--Answer 4 -->
-    <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>People collect things.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -134,27 +114,22 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What word means activities done for fun and relaxation?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>Hobbies</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Chores</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
-    </answer>
-    <!--Answer 4 -->
-    <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Jobs</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -166,27 +141,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What does collect mean?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>To gather things or items.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To throw things.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To put stuff in a box.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To give things away.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -198,27 +173,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What does create mean?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>To bring something into existence or make something.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To break something apart.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To lead something somewhere.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To fall behind.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -230,27 +205,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What does enjoy mean?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>To take delight or pleasure in something.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To have to do something.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To exercise.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To study.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -262,27 +237,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What does hobbies mean?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>An activity done for fun and to relax.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To work on homework.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>An activity done for payment.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>An activity done for work.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -294,27 +269,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What does relax mean?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>To become less tense.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To jump.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To lay down.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To become stressed.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -326,27 +301,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What does writing mean?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>The skill of composing text and words.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>The skill of using paint.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>The skill of using oil.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>The skll of using paper.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -358,27 +333,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What does singing mean?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>To make musical sounds with the voice.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To make music with instruments.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To run in place.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To hit drums.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -390,27 +365,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What does gardening mean?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>The activity of tending and cultivating a garden.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To work with others.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To pick up items.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>To pull out vegetables.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -422,27 +397,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What does fun mean?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>Enjoyment.</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Boring.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Unhappy.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Sad.</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
@@ -454,27 +429,27 @@
 <question type="multichoice">
     <!--Question Text -->
     <questiontext format="html">
-        <text>What is the capitol of US?</text>
+        <text>What can you use to make music?</text>
     </questiontext>
     <!--Answer 1 -->
     <answer fraction="100">
-        <text>Washington D.C.</text>
+        <text>Guitar</text>
         <feedback><text>Yay! Correct! Gold Star!</text></feedback>
     </answer>
     <!--Answer 2 -->
     <answer fraction="0">
-        <text>Los Angeles</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Books</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 3 -->
     <answer fraction="0">
-        <text>Seattle</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Pencils</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Answer 4 -->
     <answer fraction="0">
-        <text>San Francisco</text>
-        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+        <text>Apple</text>
+        <feedback><text>Incorrect. Try again.</text></feedback>
     </answer>
     <!--Question Properties -->
     <shuffleanswers>1</shuffleanswers>
