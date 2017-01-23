@@ -1,0 +1,486 @@
+<!-- Quiz <Insert Name Here> -->
+<?xml version="1.0" ?>
+<quiz>
+
+<!--Question 1 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 2 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 3 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 4 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 5 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 6 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 7 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 8 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 9 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 10 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 11 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 12 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 13 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 14 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+<!--Question 15 -->
+<question type="multichoice">
+    <!--Question Text -->
+    <questiontext format="html">
+        <text>What is the capitol of US?</text>
+    </questiontext>
+    <!--Answer 1 -->
+    <answer fraction="100">
+        <text>Washington D.C.</text>
+        <feedback><text>Yay! Correct! Gold Star!</text></feedback>
+    </answer>
+    <!--Answer 2 -->
+    <answer fraction="0">
+        <text>Los Angeles</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 3 -->
+    <answer fraction="0">
+        <text>Seattle</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Answer 4 -->
+    <answer fraction="0">
+        <text>San Francisco</text>
+        <feedback><text>Nope. You're wrong. You suck</text></feedback>
+    </answer>
+    <!--Question Properties -->
+    <shuffleanswers>1</shuffleanswers>
+    <single>true</single>
+    <answernumbering>abc</answernumbering>
+</question>
+
+</quiz>
+
